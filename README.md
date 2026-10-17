@@ -78,3 +78,7 @@ pytest tests/ -q
 ## Notes
 
 The sample preference set is small (15 training and 3 evaluation pairs), enough to exercise the pipeline. Built as part of Module 6 of a Generative AI engineering programme.
+
+## Author
+
+**Rishi Singh** — [GitHub](https://github.com/Rishichamp)
